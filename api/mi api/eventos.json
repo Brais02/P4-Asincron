@@ -1,0 +1,25 @@
+{
+  "eventos": [
+    {
+      "objeto": {
+        "titulo": "Prueba",
+        "imagen": "img/eventos/sociales/2.jpg",
+        "lugar": "Mi casa",
+        "fecha": "02/11/2022"
+      },
+      "id": 1
+    },
+    {
+      "objeto": {
+        "titulo": "E621",
+        "imagen": "img/eventos/deportes/1.jpg",
+        "lugar": "Andorra",
+        "fecha": "02/23/2022"
+      },
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
